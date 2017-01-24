@@ -1,0 +1,1 @@
+plink -ssh pi@192.168.0.109 -pw raspberry export DISPLAY=:0.0 & epiphany-browser www.google.com

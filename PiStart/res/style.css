@@ -1,0 +1,40 @@
+body 
+{
+	margin:20px;
+	background-color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	color:#ffffff;
+}
+
+.component
+{
+	background-image: url("element_bg.png");
+	background-size: 100% 100%;
+	display:inline-block;
+	margin:10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	white-space: pre;
+}
+
+#weather-component
+{
+	font-size: 100px;
+	width:auto;
+}
+#time-component 
+{
+	font-size: 100px;
+	width:auto;
+}
+#date-component 
+{
+	font-size: 100px;
+	width:auto;
+}
+
+
+#content-pane
+{
+	
+}
